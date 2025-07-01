@@ -1,4 +1,4 @@
-/* code to connect with websocket server */
+ㅓ/* code to connect with websocket server */
 const socket = new WebSocket('ws://localhost:5000')
 /* code to get screen display */
 navigator.mediaDevices.getDisplayMedia({video: true, audio: true})
